@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a Python Back-end developer
 
-[linkedin](https://www.linkedin.com/in/arturnuranov/)
+[linkedin](https://www.linkedin.com/in/kubatbaew/)
 
 
 ## Technology stack
